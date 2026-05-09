@@ -1,0 +1,15 @@
+.env
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+dist/
+build/
+.next/
+.turbo/
+.cache/
+cropwise-ai/node_modules/
+cropwise-ai/dist/
+backend/__pycache__/
